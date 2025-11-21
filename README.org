@@ -1,0 +1,7 @@
+* Instructions
+
+Download the file named init.el
+
+On linux and Mac, place it in ~/.emacs.d/init.el
+
+On windows, copy to C:\Users\<your-username>\AppData\Roaming\.emacs.d\init.el or to C:\Users\<your-username>\.emacs.d\init.el
